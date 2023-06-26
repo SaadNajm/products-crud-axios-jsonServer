@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Computer",
+      "price": 5400,
+      "checked": false
+    },
+    {
+      "id": 2,
+      "name": "Printer",
+      "price": 4300,
+      "checked": true
+    },
+    {
+      "id": 3,
+      "name": "Smart phone",
+      "price": 3400,
+      "checked": true
+    },
+    {
+      "name": "Iphone 11",
+      "price": "4700",
+      "checked": "false",
+      "id": 4
+    },
+    {
+      "name": "Mabook pro 14 m1",
+      "price": "15000",
+      "checked": "false",
+      "id": 5
+    },
+    {
+      "name": "testProduct",
+      "price": "10",
+      "checked": false,
+      "id": 6
+    },
+    {
+      "name": "testProduct2",
+      "price": "20",
+      "checked": false,
+      "id": 7
+    }
+  ]
+}
